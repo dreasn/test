@@ -1,5 +1,2 @@
-master
-uhuiii..
 
-ini di nyabang.
-nyabang
+2. ini di nyabang.
