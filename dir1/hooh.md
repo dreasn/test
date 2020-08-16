@@ -1,2 +1,1 @@
-
-2. ini di nyabang.
+ini di nyabang.
